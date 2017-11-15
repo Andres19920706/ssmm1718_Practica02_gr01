@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ssmm1718_Practica02_gr01</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
